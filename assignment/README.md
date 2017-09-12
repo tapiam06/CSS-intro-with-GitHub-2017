@@ -18,6 +18,8 @@ CHECK THE APP. MAKE SURE YOU ARE IN YOUR "assignment" BRANCH.
 
 In Atom: In the *assignment* folder of the repo, you will open two files, *starter_file.html* and *first.css* (inside the *styles* folder).
 
+![Atom project view](../images/atom-project-view.png)
+
 Open those two files **in your text editor, Atom.**
 
 * *starter_file.html*: Do a Save As and name it with your last name (my file would be *mcadams.html*). Make sure you save this new file into the same place (the *assignment* folder).
