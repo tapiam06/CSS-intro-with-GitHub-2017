@@ -10,7 +10,7 @@
 
 * The new branch is named *assignment-yourname* (*yourname* will be your last name).
 
-* Inside the new branch are two (2) new files with the correct filenames, as described here: [../assignment](assignment)
+* Inside the new branch are two (2) new files with the correct filenames, as described here: [assignment](../assignment)
 
 (All criteria must be met to get 5 points.)
 
