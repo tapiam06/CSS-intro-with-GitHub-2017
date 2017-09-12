@@ -48,7 +48,7 @@ At GitHub.com, when you go to your user page/profile, you’ll see a link to you
 On your hard drive, you’ll see a folder with the same name as that repo. (These two are tethered together, thanks to Git.) Where is that folder? It is where you told it to be saved, when you cloned it.
 
 * You have a user page at GitHub. *My* user page is: https://github.com/macloo Yours will be similar, but with your username instead of *macloo*.
-* The name of the repo you forked and cloned is: CSS-intro-with-GitHub-2016
+* The name of the repo you forked and cloned is: CSS-intro-with-GitHub (plus the year)
 * That is both the name of your new repo AND the folder name on your hard drive.
 * **DO NOT change the folder name!**
 * In the app, you will see all repos listed by name. Probably you only have one repo, so far. To see inside any local repo, click its name in the app.
