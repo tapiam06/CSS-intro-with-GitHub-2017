@@ -18,7 +18,7 @@
 
 All of the above.
 
-Plus, ALL CRITERIA HERE are met: https://github.com/macloo/CSS-intro-with-GitHub/tree/master/assignment
+Plus, ALL CRITERIA HERE are met: [assignment](../assignment)
 
 **Note:** I expect to see all five *pseudo classes* specified separately AND in the correct order. Find these things (the five, and the order) in your book. You may repeat a color for some classes and/or use one or two additional colors outside your palette for links if necessary.
 
