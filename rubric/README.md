@@ -12,6 +12,8 @@
 
 * Inside the new branch are two (2) new files with the correct filenames, as described here: [assignment](../assignment)
 
+* Your HTML validates [here](https://html5.validator.nu/).
+
 (All criteria must be met to get 5 points.)
 
 ## 10 points:
@@ -27,6 +29,8 @@ Plus, ALL CRITERIA HERE are met: [assignment](../assignment)
 ## 15 points:
 
 All of the above. Plus:
+
+* Your CSS validates [here](https://jigsaw.w3.org/css-validator/).
 
 * Your colors demonstrate a careful selection of colors that look good together.
 
