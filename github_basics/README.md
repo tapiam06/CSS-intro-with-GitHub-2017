@@ -8,9 +8,9 @@ To learn why GitHub is important, you can read [What Exactly Is GitHub Anyway?](
 
 Right now you’re looking at a GitHub repo. “Repo” is short for “repository.” A repo is a place to store code. More important, it is a place to keep a record of all your changes. It’s also great for sharing and collaborating.
 
-This repo is named “CSS-intro-with-GitHub-2016.” The name of any repo is at the top of the web page.
+This repo is named “CSS-intro-with-GitHub.” The name of any repo is at the top of the web page.
 
-A repo usually contains several folders and files. Some repos contain dozens of folders and files -- maybe even hundreds.
+A repo usually contains several folders and files. Some repos contain dozens of folders and files — maybe even hundreds.
 
 ## Sign up for GitHub
 
