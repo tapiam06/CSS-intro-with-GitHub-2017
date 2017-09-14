@@ -26,13 +26,17 @@ The new URL will contain your username:
 
 **After forking:** The repo does not exist on your computer YET.
 
+Only FORK a repo ONCE. After you have forked it, it exists on your own personal GitHub.com site.
+
 ## Cloning a repo
+
+**NOTE:** Before you CLONE a repo, make sure you are on your own personal GitHub.com site.​ Do not clone it from my GitHub, where the URL includes "macloo." Clone it from *your own* GitHub, where the URL includes YOUR NAME.
 
 Find the button that says “**Clone or download**” (right side, below the Fork button). Click it.
 
 Choose “Open in Desktop,” and your copy of the repo will appear in your app. If you are asked to “Launch Application,” do so, even if it’s already open.
 
- ![How to clone](images/clone.png)
+![How to clone](images/clone.png)
 
 You will be asked to choose a place on your hard drive for this repo. Put it inside the folder you already made inside Documents just for this purpose. (Perhaps you named it GitHub Projects?)
 
